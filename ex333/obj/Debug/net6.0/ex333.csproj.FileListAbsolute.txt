@@ -1,0 +1,15 @@
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\bin\Debug\net6.0\ex333.exe
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\bin\Debug\net6.0\ex333.deps.json
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\bin\Debug\net6.0\ex333.runtimeconfig.json
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\bin\Debug\net6.0\ex333.dll
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\bin\Debug\net6.0\ex333.pdb
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\obj\Debug\net6.0\ex333.csproj.AssemblyReference.cache
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\obj\Debug\net6.0\ex333.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\obj\Debug\net6.0\ex333.AssemblyInfoInputs.cache
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\obj\Debug\net6.0\ex333.AssemblyInfo.cs
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\obj\Debug\net6.0\ex333.csproj.CoreCompileInputs.cache
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\obj\Debug\net6.0\ex333.dll
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\obj\Debug\net6.0\refint\ex333.dll
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\obj\Debug\net6.0\ex333.pdb
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\obj\Debug\net6.0\ex333.genruntimeconfig.cache
+C:\Users\bychk\OneDrive\Рабочий стол\Seminar222\seminar111\ex333\obj\Debug\net6.0\ref\ex333.dll
